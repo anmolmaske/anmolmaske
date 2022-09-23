@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <a href="https://drive.google.com/file/d/1k8FsrZJTcmTFMMtlOgEsoryMpGZ_fjb7" target="_blank" title="Resume">
+  <a href="https://drive.google.com/drive/folders/1V0i4aQFmkuY1R5XWzSEuIASLBaQ6xdUg" target="_blank" title="Resume">
     <img align="center" alt="Anmol Maske Resume" src="https://img.shields.io/static/v1?logo=microsoft%20word&label=%20&message=Resume&style=for-the-badge&logoColor=white&labelColor=%23FF4470&color=%23FF4470" />
   </a>
   
