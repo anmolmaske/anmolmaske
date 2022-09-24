@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 <div align="center">
 
  ![Anmol's Github Stats](https://github-readme-stats.vercel.app/api?username=anmolmaske&theme=react)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmaske&hide=java,c,python,makefile,qmake&layout=compact&theme=react)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmaske&hide=java,c,makefile,qmake&layout=compact&theme=react)
 
 </div>
