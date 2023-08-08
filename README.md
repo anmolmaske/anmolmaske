@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  /> , I'm Anmol </h1>
 
-Hello, I'm Anmol Maske, a passionate Embedded Firmware Developer. I recently graduated with a B.E. in E&TC from KSE, Pune. With a strong foundation in both hardware and software development, I have a keen interest in creating innovative solutions that address real-world challenges. My experience and enthusiasm make me well-equipped to contribute to projects in the field of Firmware and Technology. 
+I'm Anmol Maske, a passionate Embedded Firmware Developer. I recently graduated with a B.E. in E&TC from KSE, Pune. With a strong foundation in both hardware and software development, I have a keen interest in creating innovative solutions that address real-world challenges. My experience and enthusiasm make me well-equipped to contribute to projects in the field of Firmware and Technology. 
 <br>
 <br>If you believe my skills align with your project needs, I would love to connect and explore collaboration opportunities.
 
