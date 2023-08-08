@@ -3,8 +3,9 @@
 
 <h1 align="center"> Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  /> , I'm Anmol </h1>
 
-I’m Anmol Maske, currently in Final Year, B.E. E&tc at Keystone School of Engineering, Pune. I’m a Full Stack Development enthusiast. I have a keen interest in developing solutions which can contribute in solving real world problems. Open to collaboration and work opportunities in the field of Computer Science and Technology.
-<br>If you believe I'm relevant to execute your project, we can connect.
+Hello, I'm Anmol Maske, a passionate Embedded Firmware Developer. I recently graduated with a B.E. in E&TC from KSE, Pune. With a strong foundation in both hardware and software development, I have a keen interest in creating innovative solutions that address real-world challenges. My experience and enthusiasm make me well-equipped to contribute to projects in the field of Firmware and Technology. 
+<br>
+<br>If you believe my skills align with your project needs, I would love to connect and explore collaboration opportunities.
 
 <hr>
 
@@ -46,26 +47,31 @@ Here are some ideas to get you started:
 <div align="center">
   
   
-<h2>My software skills currently cover:</h2>
+<h2>My skills currently cover:</h2>
 
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-239120?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java (Beginner)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-ED8B00?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![8051](https://img.shields.io/badge/8051-47A248?style=for-the-badge&logoColor=black)
+![PIC 18F](https://img.shields.io/badge/PIC%2018F-E34F26?style=for-the-badge&logoColor=white)
+![ARM Cortex M](https://img.shields.io/badge/ARM%20Cortex%20M-%23013243?style=for-the-badge&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-F7DF1E?style=for-the-badge&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-20232A?style=for-the-badge&logoColor=61DAFB)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%233880FF.svg?style=for-the-badge&logoColor=white)
+![Zaphyr](https://img.shields.io/badge/Zaphyr-white.svg?style=for-the-badge&logoColor=black)
 
 
-![MySQL](https://img.shields.io/badge/MySQL-593D88?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Communication Protocols](https://img.shields.io/badge/Communication%20Protocol-%2366595C?style=for-the-badge&logoColor=c8c9cb)
+![Internet of Things](https://img.shields.io/badge/Internet%20of%20Things-593D88?style=for-the-badge&logoColor=white)
 
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
 
   
 </div>
